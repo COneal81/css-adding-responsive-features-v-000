@@ -69,5 +69,12 @@
     width: auto;
   }
   
- 
+  #logo {
+        padding: 65px 0 0;
+
+    }
+
+    #social {
+        top: 65px;
+    }
 }
