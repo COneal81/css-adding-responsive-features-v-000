@@ -60,4 +60,14 @@
   #navbar nav a{
     display: none;
   }
+  
+  #navbar nav a.menu-icon{
+    display: block;
+    float: left;
+    font-size: 1.25em;
+    padding: 10px 15px;
+    width: auto;
+  }
+  
+ 
 }
